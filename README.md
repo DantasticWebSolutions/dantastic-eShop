@@ -1,33 +1,37 @@
 #### Dantastic eShop 
 
+Hosted to:
+https://dantastic-eshop.herokuapp.com
+
+Code available to GitHub:
+https://github.com/DantasticWebSolutions/dantastic-eShop
+
 
 ### Install Dependencies BACKEND
-
 ```
 npm install
 ```
 
 ### Install Dependencies FRONTEND
-
 ```
 cd frontend
 npm install
 cd ..
 ```
 
-### Start 
+### Start the App
 
 # Run frontend & backend at the same time
 ```
 npm run dev
 ```
 
-# Run backend only
+# or Run backend only
 ```
 npm run server
 ```
 
-# Run frontend only
+# or Run frontend only
 ```
 cd frontend
 npm start
@@ -42,7 +46,6 @@ npm run build
 ```
 
 #Sample User Logins 
-
 ```
 admin@gmail.com (Admin)
 admin
@@ -51,14 +54,10 @@ dan@gmail.com  (Custumer)
 dandandan
 
 ```
-#User to make PayPal payment
-
+#User for PayPal payment
 ```
 sb-xr3bf6350266@personal.example.com
 personal
-
-dan@gmail.com  (Custumer)
-dandandan
 
 ```
 
